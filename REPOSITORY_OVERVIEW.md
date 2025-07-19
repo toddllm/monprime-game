@@ -57,6 +57,7 @@
 - **Shared Interfaces**: Define in monprime-shared
 - **API Contracts**: Document in monprime-backend
 - **Design Changes**: Update in monprime-game
+- **Review Plan**: See `IMPLEMENTATION_REVIEW_PLAN.md` for cross-repo deliverables
 
 ## Getting Started for New Agents
 
